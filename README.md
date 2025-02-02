@@ -1,0 +1,6 @@
+-  Hi, I’m @EsclartCode
+-  I’m interested in Programing , I like programming fun things
+-  I’m currently learning Lua/C++
+-  
+-  Contact me : Email: esclartcodeofficial@gmail.com
+-  My Discord server: https://discord.gg/MWrK6bWMFy
