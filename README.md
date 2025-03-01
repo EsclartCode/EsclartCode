@@ -1,6 +1,6 @@
 -  Hi, I’m @EsclartCode
 -  I’m interested in Programing , I like programming fun things
--  I’m currently learning Lua/C++
+-  I’m currently learning Python and late Lua/C++
 -  My skils is none (I Learn)
--  I speak French, (I Learn English) and Romanian
--  Contact Me : Email: esclartcodeofficial@gmail.com / My Discord server Dev: https://discord.gg/MWrK6bWMFy
+-  I speak French,Romanian (I Learn English)
+-  Contact Me : Email: esclartcodeofficial@gmail.com
